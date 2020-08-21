@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    margin-top: 100px;
+}
+
+div h2 {
+    text-align: center;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    font-size: 29px;
+    letter-spacing: 1.2px;
+    font-weight: 700;
+    background-color: #1f3c88;
+    color: #fff;
+    width: 55%;
+    margin: auto;
+    border-radius: 17px;
+}
+
+div h2 span {
+    color: #ff7a8a
+}
+
+div p {
+    text-align: center;
+    padding: 26px 40px;
+    text-transform: capitalize;
+    font-size: 25px;
+    letter-spacing: 1.2px;
+    background-color: #0e2431;
+    color: #f9b248;
+    width: 28%;
+    margin: 50px auto;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-style: dashed;
+}
+
+div .spa {
+    display: block;
+    text-align: center;
+    font-size: 26px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    text-decoration: underline;
+    color: #fc3a52;
+    font-weight: 800;
+    word-spacing: 2px;
+}
+
+.icon {
+    margin-top: 30px;
+    text-align: center;
+}
+
+i {
+    font-size: 55px;
+    color: darkslategrey;
+}
+
+button {
+    display: block;
+    margin: auto;
+    background-color: #0e2431;
+    color: #f9b248;
+    font-size: 18px;
+    margin-top: 40px;
+    padding: 11px 35px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    font-weight: bold;
+    outline: transparent;
+    border: 0;
+    border-radius: 7px;
+    cursor: pointer;
+}
